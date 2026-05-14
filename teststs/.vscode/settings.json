@@ -1,0 +1,11 @@
+{
+  "dart.analysisExcludedFolders": [],
+  "dart.showTodos": true,
+  "dart.previewLsp": true,
+  "editor.formatOnSave": true,
+  "files.autoSave": "afterDelay",
+  "dart.flutterHotReloadOnSave": "all",
+  "[dart]": {
+    "editor.defaultFormatter": "Dart-Code.dart-code"
+  }
+}

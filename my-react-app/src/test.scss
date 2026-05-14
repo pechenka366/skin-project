@@ -1,0 +1,33 @@
+.Hello{
+    background-color: white;
+    width: 300px;
+    height: 300px;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 16px;
+    box-shadow: 0 4px 12px rgba(226, 223, 223, 0.6);
+    transition: 0.3s;
+
+    &:hover{
+        transform: translateY(-5px);
+        box-shadow: 0 8px 20px rgba(20, 114, 255, 0.6);
+    }
+}
+
+h2{
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+    margin: 0 0 10px 0;
+    padding-bottom: 8px;
+    border-bottom: 2px solid #03264d;
+}
+
+p{
+    font-size: 18px;
+    font-weight: bold;
+    color: #03264d;
+    margin: 0 0 10px 0;
+    padding-bottom: 8px;
+    border-bottom: 2px solid #007bff;
+}
